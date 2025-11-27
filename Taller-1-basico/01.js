@@ -6,5 +6,5 @@ if (!Number.isNaN(numero1) && !Number.isNaN(numero2)){                //Al usar 
     alert('La suma es: ' + (numero1 + numero2));
 }
 else {
-    alert( 'ERROR: Has digitado un valor no valido.' );
+    alert( 'ERROR: Has digitado un valor no valido.' );               // Con esto aseguramos que el usuario no ecriba nada difrente a números para obtener un resultado.
 }
