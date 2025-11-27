@@ -4,7 +4,7 @@ let frase = prompt('Escribe una frase');
 let numero = prompt( 'Dame el número de veces que se repetirá' );
 
 for (let i = numero; i > 0 ; i--){
-    console.log(frase);             //Entiendo como hacerlo pero me quedan dudas de por que no me imprime la cantidad que pido.
+    console.log(frase);             
 }
 
 

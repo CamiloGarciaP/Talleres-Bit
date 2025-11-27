@@ -2,7 +2,7 @@
 
 let frase = prompt( 'Ingresa una frase.');
 
-for (let i = 0; i < 10; i++){               //Si sale bien pero no veo completa la lista de frases en la consola, solo el número de veces y la frase.
+for (let i = 0; i < 10; i++){               
     console.log( frase );
 }
 
